@@ -1,0 +1,22 @@
+  GNU nano 7.2 shell_startup *
+#!/bin/bash
+
+# Print "ubuntu" to terminal screen on startup
+
+ORANGE='\033[1;35m'
+
+echo -e "\033[1;32m             _                 _         "
+echo -e "\033[1;32m       _   _| |__  _   _ _ __ | |_ _   _ "
+echo -e "\033[1;32m      | | | | '_ \| | | | '_ \| __| | | |"
+echo -e "\033[1;32m      | |_| | |_) | |_| | | | | |_| |_| |"
+echo -e "\033[1;32m       \__,_|_.__/ \__,_|_| |_|\__|\__,_|"
+
+
+
+echo -e "\033[1;32m Welcome to Linux Command Line Interface... "
+echo -en '\n'
+echo -en '\n'
+dateAndTime=$(date +'%Y-%m-%d_%H.%m')
+echo "$dateAndTime"
+
+zsh

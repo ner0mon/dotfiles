@@ -1,0 +1,1026 @@
+: 1718396548:0;ls
+: 1718396730:0;exit
+: 1718396776:0;git clone https://github.com/zsh-users/zsh-auto... ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\
+
+: 1718396821:0;vfrs
+: 1718396828:0;ls
+: 1718396835:0;git clone https://github.com/zsh-users/zsh-auto... ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1718396927:0;git clone github.com/zsh-users/zsh-auto... ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1718396936:0;git clone http://github.com/zsh-users/zsh-auto... ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\
+
+: 1718397037:0;git clone http://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions\
+
+: 1718397102:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1718397368:0;cd ~
+: 1718397374:0;ls -lah
+: 1718397384:0;nano .zshrc
+: 1718397546:0;ls ~/.oh-my-zsh/themes
+: 1718404278:0;cd ~
+: 1718404285:0;ls -lah
+: 1718404301:0;nano .zshrc
+: 1718404668:0;exit
+: 1718405100:0;ls oh-my-zsh/plugins
+: 1718405116:0;cd ~
+: 1718405124:0;ls oh-my-zsh/plugins
+: 1718405134:0;ls .oh-my-zsh/plugins
+: 1718405259:0;ls -lah
+: 1718405272:0;nano .zshrc
+: 1718405608:0;which nu
+: 1718405612:0;which nushell
+: 1718405620:0;nu
+: 1718405643:0;exit
+: 1718406162:0;source ~/.zshrc
+: 1718406316:0;ls
+: 1718406331:0;ls -lah
+: 1718406353:0;source ~/.zshrc
+: 1718406672:0;git clone https://github.com/romkatv/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
+: 1718406720:0;nano .zshrc
+: 1718406894:0;source ~/.zshrc
+: 1718407341:0;ls
+: 1718407370:0;ls -lah
+: 1718407443:0;source ~/.zshrc
+: 1718407502:0;cd Document
+: 1718407506:0;cd Documents
+: 1718407560:0;cd ~/.oh-my-zsh
+: 1718407574:0;ls
+: 1718407581:0;cd themes
+: 1718457116:0;cd plugins
+: 1718457124:0;ls
+: 1718457127:0;cd ..
+: 1718457130:0;ls
+: 1718457132:0;cd plugins
+: 1718457134:0;ls
+: 1718457170:0;cd ..
+: 1718457203:0;~/.oh-my-zsh
+: 1718457205:0;ls
+: 1718457211:0;ls -lah
+: 1718457222:0;cd custom
+: 1718457223:0;ls
+: 1718457231:0;cd plugins
+: 1718457233:0;ls
+: 1718457277:0;git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+: 1718457282:0;ls
+: 1718457322:0;history
+: 1718457347:0;cd ~
+: 1718457351:0;ls -lah
+: 1718457359:0;nano .zshrc
+: 1718457570:0;cd ~
+: 1718457572:0;ls -lah
+: 1718457623:0;~/.oh-my-zsh
+: 1718457628:0;ls
+: 1718457631:0;cd custom
+: 1718457632:0;ls
+: 1718457636:0;cd plugins
+: 1718457638:0;ls
+: 1718457660:0;exec zsh
+: 1718457888:0;cd ~
+: 1718457893:0;ls -lah
+: 1718458225:0;git clone https://github.com/MichaelAquilina/zsh-you-should-use ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-you-should-use
+: 1718458239:0;nano .zshrc
+: 1718458302:0;exec zsh
+: 1718458330:0;alias
+: 1718458360:0;git status
+: 1718461661:0;echo $'Pay $5 to joe'
+: 1718462021:0;p10k configure
+: 1718462384:0;neofetch
+: 1718462397:0;p10k configure
+: 1718462587:0;LS
+: 1718462593:0;ls
+: 1718462604:0;cd ~
+: 1718462608:0;ls -lah
+: 1718462631:0;cd ~/.oh-my-zsh
+: 1718462708:0;p10k configure
+: 1718462860:0;ls
+: 1718462879:0;p10k configure
+: 1718462989:0;cd ~
+: 1718463081:0;p10k configure
+: 1718463132:0;nano .zshrc
+: 1718463165:0;source ~/.zshrc
+: 1718463320:0;nano .zshrc
+: 1718463357:0;source ~/.zshrc
+: 1718463443:0;w -
+: 1718464136:0;nano .zshrc
+: 1718464453:0;source ~/.zshrc
+: 1718464465:0;history
+: 1718464475:0;exec zsh
+: 1718464591:0;git clone https://github.com/fdellwing/zsh-bat ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-bat
+: 1718464600:0;source ~/.zshrc
+: 1718464609:0;nano .zshrc
+: 1718464638:0;source ~/.zshrc
+: 1718464674:0;exec zsh
+: 1718464733:0;cat ~/.zshrc
+: 1718465068:0;eza
+: 1718465284:0;git clone https://github.com/renovate-bot/z-shell-_-zsh-eza ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-eza
+: 1718465316:0;nano .zshrc
+: 1718465348:0;source ~/.zshrc
+: 1718465523:0;nano .zshrc
+: 1718465534:0;ls
+: 1718465613:0;source ~/.zshrc
+: 1718465620:0;nano .zshrc
+: 1718466093:0;ls
+: 1718467474:0;exit
+: 1718467495:0;nano .zshrc
+: 1718467533:0;source ~/.zshrc
+: 1718467561:0;ls
+: 1718467573:0;ls -lah
+: 1718467612:0;cat ~/.zshrc
+: 1718467660:0;tilix
+: 1718467728:0;ls
+: 1718467734:0;ls -lah
+: 1718467955:0;chsh -s $(which zsh)
+: 1718468031:0;which bash
+: 1718468041:0;chsh -s $(which bash)
+: 1718472927:0;ls
+: 1718472948:0;cd ~/.oh-my-zsh
+: 1718472968:0;ls
+: 1718472999:0;exit
+: 1718474578:0;git clone https://github.com/PromptSlayer/eza-zsh ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/eza-zsh
+: 1718474586:0;nano .zshrc
+: 1718474640:0;tilix
+: 1718474649:0;nano .zshrc
+: 1718474675:0;exit
+: 1718474801:0;cd ~/.oh-my-zsh
+: 1718474803:0;l
+: 1718474804:0;ls
+: 1718474830:0;exit
+: 1718474925:0;source ~/.zshrc
+: 1718474928:0;ls
+: 1718474971:0;ll
+: 1718475560:0;exec zsh
+: 1718475681:0;cd ~/.oh-my-zsh
+: 1718475686:0;ls
+: 1718475695:0;unalias ls
+: 1718475695:0;ls
+: 1718475708:0;cd plugins
+: 1718475709:0;ls
+: 1718475788:0;eza
+: 1718475800:0;cd eza
+: 1718475802:0;ls
+: 1718475829:0;cat eza.plugin.zsh
+: 1718475895:0;ls
+: 1718475906:0;eza
+: 1718475980:0;nano .zshrc
+: 1718475998:0;exit
+: 1718476061:0;source ~/.zshrc
+: 1718476066:0;la
+: 1718476070:0;ls
+: 1718476085:0;cd ~/.oh-my-zsh
+: 1718476087:0;ls
+: 1718476141:0;ls -lah
+: 1718476182:0;alias ls='eza --color=always --group-directories-first --icons'
+: 1718476185:0;ls
+: 1718476189:0;ll
+: 1718476200:0;alias ll='eza -la --icons --octal-permissions --group-directories-first'
+: 1718476204:0;ll
+: 1718476226:0;ls -lah
+: 1718476233:0;unalias ll
+: 1718476235:0;ll
+: 1718476237:0;exit
+: 1718476249:0;ll
+: 1718476251:0;ls
+: 1718476264:0;source ~/.zshrc
+: 1718476267:0;ls
+: 1718476287:0;cd ~/.oh-my-zsh
+: 1718476289:0;ls
+: 1718476309:0;nano .zshrc
+: 1718476354:0;cat eza.plugin.zsh
+: 1718476358:0;ls
+: 1718476362:0;cat CONTRIBUTING.md
+: 1718476382:0;ls
+: 1718476422:0;cat .zshrc
+: 1718476427:0;cd ~/.oh-my-zsh
+: 1718476430:0;cd ~
+: 1718476432:0;cat .zshrc
+: 1718476439:0;nano .zshrc
+: 1718476461:0;source ~/.zshrc
+: 1718476499:0;cd ~/.oh-my-zsh
+: 1718476500:0;ls
+: 1718476503:0;cd custom
+: 1718476504:0;ls
+: 1718476506:0;cd plugins
+: 1718476507:0;ls
+: 1718476529:0;rm zsh-eza
+: 1718476534:0;rm -r zsh-eza
+: 1718476592:0;ls
+: 1718476615:0;source ~/.zshrc
+: 1718476625:0;cd ~
+: 1718476628:0;nano .zshrc
+: 1718476697:0;cd ~
+: 1718476699:0;ls
+: 1718476708:0;~/.oh-my-zsh
+: 1718476709:0;ls
+: 1718476713:0;cd plugins
+: 1718476714:0;ls
+: 1718476736:0;eza
+: 1718476760:0;cd ..
+: 1718476763:0;eza
+: 1718476767:0;ls
+: 1718476773:0;cd plugins
+: 1718476774:0;ls
+: 1718476811:0;eza
+: 1718476840:0;cd ~/.oh-my-zsh
+: 1718476848:0;eza
+: 1718476855:0;ls
+: 1718476876:0;eza
+: 1718476883:0;cd ..
+: 1718476889:0;eza
+: 1718476893:0;cd //
+: 1718476900:0;sudo apt install eza
+: 1718476998:0;eza
+: 1718477004:0;cd ~
+: 1718477006:0;ls
+: 1718477009:0;nano .zshrc
+: 1718477050:0;ls
+: 1718477051:0;eza
+: 1718477075:0;alias ls='eza --color=always --group-directories-first --icons'
+: 1718477077:0;ls
+: 1718477086:0;unalias ls
+: 1718477088:0;ls
+: 1718477096:0;sudo apt install eza
+: 1718477127:0;ls
+: 1718477132:0;~/.oh-my-zsh
+: 1718477133:0;ls
+: 1718477138:0;exit
+: 1718477187:0;eza
+: 1718477193:0;ks
+: 1718477195:0;ls
+: 1718477245:0;unalias ls
+: 1718477247:0;eza
+: 1718477249:0;ls
+: 1718477274:0;eza
+: 1718477391:0;cd ~/.oh-my-zsh
+: 1718477393:0;ls
+: 1718477407:0;cd plugins
+: 1718477408:0;ls
+: 1718477422:0;sudo apt install eza
+: 1718477437:0;eza
+: 1718477490:0;sudo apt remove eza
+: 1718477551:0;nano .zshrc
+: 1718477556:0;cd ~
+: 1718477558:0;nano .zshrc
+: 1718477616:0;sudo apt update
+: 1718477625:0;sudo apt upgrade
+: 1718477667:0;sudo apt remove eza
+: 1718477712:0;nano .zshrc
+: 1718477777:0;cd ~/.oh-my-zsh
+: 1718477779:0;ls
+: 1718477962:0;cd ~
+: 1718477965:0;nano .zshrc
+: 1718487537:0;cd ~
+: 1718487542:0;nano .zshrc
+: 1718487867:0;source ~/.zshrc
+: 1718487874:0;exec zsh
+: 1718487881:0;eza
+: 1718487984:0;brew remove eza
+: 1718488015:0;eza
+: 1718488027:0;zsh
+: 1718488032:0;exit
+: 1718488039:0;sudo apt install eza
+: 1718488062:0;cd ~
+: 1718488064:0;nano .zshrc
+: 1718488084:0;eza
+: 1718488091:0;source ~/.zshrc
+: 1718488134:0;brew install eza
+: 1718488144:0;homebrew
+: 1718488300:0;chsh -s $(which zsh)
+: 1718488313:0;cd ~
+: 1718488317:0;nano .zshrc
+: 1718488331:0;eza
+: 1718488416:0;brew install eza
+: 1718488487:0;brew
+: 1718488491:0;homebrew 
+: 1718488508:0;sudo apt remove tilix
+: 1718488531:0;tilix
+: 1718488566:0;brew install eza
+: 1718488597:0;alias ls='eza --color=always --group-directories-first --icons'
+: 1718488600:0;ls
+: 1718488803:0;exit
+: 1718488875:0;ls
+: 1718488901:0;cd ~
+: 1718488930:0;nano .zshrc
+: 1718488973:0;ls
+: 1718488980:0;eza
+: 1718489600:0;brew 
+: 1718489785:0;nano .zshrc
+: 1718489851:0;homebrew
+: 1718489852:0;bre
+: 1718489855:0;brew
+: 1718489974:0;source ~/.zshrc
+: 1718489982:0;brew doctor
+: 1718489989:0;echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/$USER/.zprofile\
+
+: 1718490037:0;nano .zshrc
+: 1718490104:0;brew doctor
+: 1718490142:0;echo $PATH
+: 1718490200:0;export PATH="/opt/homebrew/bin:$PATH"~
+: 1718490266:0;chsh -s $(which bash)
+: 1718490273:0;ls
+: 1718490283:0;exit
+: 1718490288:0;ls
+: 1718490323:0;nano bashrc
+: 1718490334:0;ls -lah
+: 1718490485:0;ls
+: 1718490495:0;brew doctor
+: 1718490588:0;sudo apt install tilix
+: 1718490751:0;cd /bin/bash
+: 1718490778:0;cd bin
+: 1718490787:0;cd ~/bin
+: 1718490798:0;cd /bin
+: 1718490818:0;nano shell_startup 
+: 1718490939:0;cd ..
+: 1718490944:0;cd Documents
+: 1718490948:0;nano shell_startup 
+: 1718490999:0;sudo nano shell_startup
+: 1718491017:0;sudo rm shell_startup
+: 1718491022:0;cd ..
+: 1718491025:0;cd /bin
+: 1718491029:0;sudo nano shell_startup
+: 1718491057:0;cd ~
+: 1718491061:0;cd bashrc
+: 1718491066:0;nano bashrc
+: 1718491092:0;nano ~/.bashrc
+: 1718491396:0;exit
+: 1718491573:0;ls
+: 1718545562:0;man -k xmonad
+: 1718545570:0;man -k tilix
+: 1718545576:0;1
+: 1718545626:0;man -k lf
+: 1718545747:0;man -k 
+: 1718545749:0;man -k .
+: 1718546945:0;cd /bin
+: 1718546949:0;ls -lah
+: 1718547012:0;mv shell_startup /Home
+: 1718547022:0;sudo mv shell_startup /Home
+: 1718547038:0;cd /home
+: 1718547039:0;ls
+: 1718547059:0;cd alpha
+: 1718547061:0;ls
+: 1718547078:0;find shell_startup
+: 1718547093:0;cd /Home
+: 1718547094:0;ls
+: 1718547100:0;ls -lah
+: 1718547128:0;cd /bin
+: 1718547146:0;./shell_startup
+: 1718547155:0;cd /
+: 1718547158:0;fzf
+: 1718547245:0;find -name shell_startup
+: 1718547260:0;sudo find -name shell_startup
+: 1718547297:0;cd /bin
+: 1718547309:0;find . -name shell_startup
+: 1718547315:0;cd /Home
+: 1718547320:0;find . -name shell_startup
+: 1718547549:0;history
+: 1718547674:0;cd /Home
+: 1718547709:0;cd ~
+: 1718547710:0;fzf
+: 1718547719:0;cd /
+: 1718547722:0;fzf
+: 1718547817:0;cd /Home
+: 1718547902:0;cd /bin
+: 1718547928:0;ls | grep /Home
+: 1718547935:0;cat /Home
+: 1718547962:0;mv /Home shell_startup
+: 1718547970:0;sudo mv /Home shell_startup
+: 1718548004:0;sudo mv shell_startup ~
+: 1718548011:0;cd ~
+: 1718548012:0;ls
+: 1718548110:0;mv shell_startup .shell_startup
+: 1718548126:0;ls -lah
+: 1718548146:0;nano ~/.bashrc
+: 1718548213:0;source ~/.bashrc
+: 1718548683:0;find /usr/share/man/man1 -type f | shuf | awk -F '/' '/1/ {print $6}' | sed 's/.gz//g' | head -1
+: 1718549158:0;man -k . | awk '{print $1}' | smenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs bash -e man
+: 1718549173:0;sudo apt install smenu
+: 1718549232:0;man -k . | awk '{print $1}' | smenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs bash -e man
+: 1718549344:0;man -k . | awk '{print $1}'
+: 1718549416:0;man -k . | awk '{print $1}' | smenu -i -p 'Search manpages: '
+: 1718549464:0;sudo apt remove smenu
+: 1718549477:0;sudo apt install dmenu
+: 1718549500:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs bash -e man
+: 1718549535:0;man -k . | awk '{print $1}' | dmenu -i -p 'Search manpages: '
+: 1718549787:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs -e man
+: 1718549806:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs bash -e man
+: 1718549830:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs -L man
+: 1718549849:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' | xargs -L 1 man
+: 1718549880:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: ' 
+: 1718549885:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw 4 -p 'Search manpages: '
+: 1718549949:0;man -k . | awk '{print $1}' | dmenu -i -p 'Search manpages: '
+: 1718549965:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -p 'Search manpages: '
+: 1718549982:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -p 'Search manpages: '
+: 1718549990:0;man -k . | awk '{print $1}' | dmenu -i -c -p 'Search manpages: '
+: 1718550062:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -p 'Search manpages: '
+: 1718550080:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -bw -p 'Search manpages: '
+: 1718550086:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -c -bw -p 'Search manpages: '
+: 1718550090:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -bw -p 'Search manpages: '
+: 1718550094:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -p 'Search manpages: '
+: 1718550099:0;man -k . | awk '{print $1}' | dmenu -i -l 10 -p 'Search manpages: '
+: 1718550104:0;man -k . | awk '{print $1}' | dmenu -i -p 'Search manpages: '
+: 1718550135:0;man -k . | awk '{print $1}' | dmenu -i -l 10 -p 'Search manpages: '
+: 1718550140:0;man -k . | awk '{print $1}' | dmenu -i -l 20 -p 'Search manpages: '
+: 1718550146:0;man -k . | awk '{print $1}' | dmenu -i -l 40 -p 'Search manpages: '
+: 1718550192:0;man -k . | awk '{print $1}' | dmenu -i -l 40 -p 'Search manpages: ' | xargs bash -e man
+: 1718550219:0;man -k . | awk '{print $1}' | dmenu -i -l 40 -p 'Search manpages: ' | xargs -e man
+: 1718550373:0;nano bootup.sh
+: 1718550425:0;chmod +x bootup.sh
+: 1718550462:0;cd etc
+: 1718550466:0;cd /etc
+: 1718550467:0;ls
+: 1718550475:0;ls -lah
+: 1718550501:0;cd ..
+: 1718550504:0;ls -lah
+: 1718550552:0;cd ~
+: 1718550554:0;lsa
+: 1718550564:0;./bootup.sh
+: 1718550648:0;crontab -e
+: 1718564106:0;ufw
+: 1718564118:0;ufw enable
+: 1718564126:0;sudo ufw enable
+: 1718567013:0;ufw
+: 1718567023:0;sudo ufw enable
+: 1718567036:0;ufw status
+: 1718567047:0;sudo ufw status
+: 1718567292:0;sudo ufw limit 22/tcp
+: 1718567314:0;sudo ufw status
+: 1718567631:0;fail2ban
+: 1718567649:0;sudo apt install fail2ban
+: 1718568347:0;fail2ban
+: 1718568352:0;sudo apt install fail2ban
+: 1718568398:0;cat /etc/fail2ban/jail.local
+: 1718568408:0;cat /etc/fail2ban/
+: 1718568462:0;cd  /etc/fail2ban
+: 1718568463:0;ls
+: 1718568477:0;cat fail2ban.conf
+: 1718568501:0;nano fail2ban.conf
+: 1718568719:0;sudo nano fail2ban.conf
+: 1718568960:0;cd  /etc/fail2ban
+: 1718568961:0;ls
+: 1718568964:0;cd jail.d
+: 1718568965:0;ls
+: 1718569149:0;cd ..
+: 1718569150:0;ls
+: 1718569169:0;nano jail.local
+: 1718569344:0;sudo apt install sendmail-bin sendmail
+: 1718569509:0;ls
+: 1718569513:0;lsa
+: 1718569577:0;cp /etc/fail2ban/fail2ban.conf /etc/fail2ban/fail2ban.local
+: 1718569585:0;sudo cp /etc/fail2ban/fail2ban.conf /etc/fail2ban/fail2ban.local
+: 1718569591:0;lsa
+: 1718569621:0;nano fail2ban.local
+: 1718569794:0;cp jail.conf jail.local
+: 1718569802:0;sudo cp jail.conf jail.local
+: 1718569804:0;lsa
+: 1718569818:0;nano jail.local
+: 1718569844:0;sudo nano jail.local
+: 1718570024:0;cd filter.d
+: 1718570026:0;ls
+: 1718570041:0;nano wordpress.conf
+: 1718570051:0;sudo nano wordpress.conf
+: 1718570096:0;cd ..
+: 1718570101:0;nano jail.local
+: 1718570128:0;sudo nano jail.local
+: 1718570182:0;sudo journalctl enable fail2ban
+: 1718570223:0;sudo systemctl enable --now fail2ban
+: 1718570244:0;sudo systemctl enable --now sendmail
+: 1718570339:0;fail2ban-client status 
+: 1718570349:0;sudo fail2ban-client status 
+: 1718570679:0;cd ..
+: 1718570696:0;cd /apt/preferences.d/
+: 1718570701:0;cd etc/apt/preferences.d/
+: 1718570704:0;cd /etc/apt/preferences.d/
+: 1718570756:0;ls
+: 1718570774:0;sudo nano volian.pref
+: 1718570780:0;ls
+: 1718571504:0;sudo aa status
+: 1718571513:0;cd ~
+: 1718571521:0;sudo apt install apparmor
+: 1718571533:0;sudo aa-status
+: 1718571654:0;sudo apt install apparmor-utils
+: 1718571789:0;btop
+: 1718665770:0;hwinfo
+: 1718665786:0;hwinfo help
+: 1718665793:0;hwinfo -help
+: 1718665795:0;hwinfo --help
+: 1718665817:0;hwinfo cpu
+: 1718675356:0;cd ~
+: 1718675357:0;ls
+: 1718675375:0;history
+: 1718675420:0;crontab -e
+: 1718675449:0;ls
+: 1718675460:0;nano bootup.sh
+: 1718676146:0;ls
+: 1718676157:0;lsa
+: 1718676180:0;ls
+: 1718676188:0;./bootup.sh
+: 1718676381:0;nano bootup.sh
+: 1718676424:0;ls
+: 1718676434:0;./manhunt.sh
+: 1718676442:0;sudo ./manhunt.sh
+: 1718676493:0;sudo chmod +x manhunt.sh
+: 1718676499:0;ls
+: 1718676520:0;sudo rm bootup.sh
+: 1718676580:0;cd /etc
+: 1718676581:0;ls
+: 1718676636:0;cd usr
+: 1718676640:0;cd /usr
+: 1718676641:0;ls
+: 1718676652:0;cd games
+: 1718676655:0;ls
+: 1718676666:0;./gamemode-simulate-game
+: 1718676692:0;./gnome-sudoku
+: 1718677324:0;cd usr/bin
+: 1718677329:0;cd /usr/bin
+: 1718677330:0;ls
+: 1718677372:0;cd ..
+: 1718677376:0;cd local
+: 1718677377:0;ls
+: 1718677385:0;cd bin
+: 1718677385:0;ls
+: 1718677391:0;cd ..
+: 1718677401:0;cd sbin
+: 1718677402:0;ls
+: 1718677412:0;cd ~
+: 1718677414:0;ls
+: 1718677437:0;sudo mv manhunt.sh /usr/local/sbin
+: 1718677457:0;ls
+: 1718677465:0;cd usr/local/sbin
+: 1718677466:0;ls
+: 1718677472:0;cd /usr/local/sbin
+: 1718677482:0;ls
+: 1718816869:0;sudo apt install nala
+: 1718816907:0;nala
+: 1718816933:0;nala --version
+: 1718816944:0;sudo apt update
+: 1718816951:0;nala update
+: 1718816956:0;sudo nala update
+: 1718817023:0;alias apt='nala'
+: 1718817029:0;sudo apt update
+: 1718817142:0;unalias apt
+: 1718817150:0;alias apt='\nala'
+: 1718817154:0;sudo apt update
+: 1718817211:0;alias sudo='sudo '
+: 1718817214:0;sudo apt update
+: 1718817350:0;sudo apt-get update
+: 1718817364:0;tldr apt-get
+: 1718817446:0;tldr nala
+: 1718817689:0;sudo apt upgrade
+: 1718818287:0;sudo nala fetch
+: 1718818499:0;cat /etc/apt/sources.list
+: 1718818546:0;sudo apt update
+: 1718818596:0;sudo apt upgrade
+: 1718849888:0;sudo apt update
+: 1718849920:0;sudo nala fetch
+: 1718839240:0;sudo apt update
+: 1718839267:0;sudo nala update
+: 1718839284:0;alias list
+: 1718839295:0;unalias list
+: 1718839301:0;alias --list
+: 1718839308:0;alias help
+: 1718839313:0;unalias help
+: 1718839320:0;alias --help
+: 1718839327:0;tldr alias
+: 1718839341:0;alias sudo 
+: 1718839345:0;alias sudo
+: 1718839365:0;alias apt
+: 1718839375:0;alias apt='\nala'
+: 1718839388:0;alias sudo='sudo '
+: 1718839395:0;sudo apt update
+: 1718843049:0;./VentoyGUI.x86_64
+: 1718881531:0;grep " install " /var/log/dpkg.log
+: 1718881576:0;dpkg -l | gnome-shell-extension-manager
+: 1718881590:0;dpkg -l | grep gnome-shell-extension-manager
+: 1718881601:0;sudo apt purge gnome-shell-extension-manager
+: 1718881878:0;dpkg -l | grep gnome-shell-extension-manager
+: 1718881895:0;dpkg -l | grep gnome
+: 1718881926:0;cd
+: 1718881945:0;rm -r .gnome-shell-extension-manager
+: 1718881949:0;rm -r .gnome-shell-extension-manager*
+: 1718882070:0;dpkg -l | grep gnome-clipboard
+: 1718882080:0;dpkg -l | grep gnome-clipboard-history
+: 1718882112:0;dpkg -l | grep gnome clipboard
+: 1718882152:0;grep " install " /var/log/dpkg.log
+: 1718883197:0;sudo apt purge copyq
+: 1718883230:0;grep " install " /var/log/dpkg.log
+: 1718883290:0;sudo apt purge copyq-plugins
+: 1718883388:0;sudo apt purge copyq
+: 1718883576:0;sudo snap refresh snap-store --beta~
+: 1718883578:0;sudo snap refresh snap-store --beta
+: 1718883599:0;snap info snap-store
+: 1718883640:0;snap info copyq
+: 1718883703:0;dpkg -L 'copyq'
+: 1718883707:0;dpkg -L copyq
+: 1718884124:0;cd ~
+: 1718884134:0;nano zshrc
+: 1718884139:0;lsa
+: 1718884148:0;nano .zshrc
+: 1718884239:0;sudo apt update
+: 1718884358:0;tilix
+: 1718884514:0;cd ~
+: 1718884524:0;nano .zshrc
+: 1718884565:0;source ~/.zshrc
+: 1718884833:0;man man
+: 1718884879:0;source ~/.zshrc
+: 1718885171:0;	cd $ZSH_CUSTOM
+: 1718885181:0;ls
+: 1718885211:0;cd themes
+: 1718885213:0;ls
+: 1718885315:0;git clone https://github.com/Daivasmara/daivasmara.zsh-theme
+: 1718885344:0;cd powerlevel10k
+: 1718885345:0;ls
+: 1718885352:0;cd ..
+: 1718885417:0;cd Desktop
+: 1718885428:0;cd ~/Desktop
+: 1718885452:0;mv daivasmara.zsh-theme ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
+: 1718885470:0;cd ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
+: 1718885471:0;ls
+: 1718885593:0;cd ~
+: 1718885598:0;nano .zshrc
+: 1718885652:0;source ~/.zshrc
+: 1718885724:0;nano .zshrc
+: 1718885782:0;cd ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
+: 1718885789:0;ls
+: 1718885803:0;mv daivasmara.zsh-theme daivasmara
+: 1718885804:0;ls
+: 1718885812:0;cd daivasmara
+: 1718885814:0;ls
+: 1718885818:0;cd ..
+: 1718885825:0;source ~/.zshrc
+: 1718885847:0;ls
+: 1718885851:0;cd powerlevel10k
+: 1718885853:0;ls
+: 1718885913:0;cd ~
+: 1718885914:0;ls
+: 1718885919:0;nano .zshrc
+: 1718885939:0;source ~/.zshrc
+: 1718886147:0;cd Downloads
+: 1718888898:0;cd ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
+: 1718888902:0;ls
+: 1718888910:0;cd daivasmara
+: 1718888912:0;ls
+: 1718888921:0;nano daivasmara.zsh-theme
+: 1718889170:0;source ~/.zshrc
+: 1718889207:0;nano daivasmara.zsh-theme
+: 1718889253:0;source ~/.zshrc
+: 1718889928:0;nano daivasmara.zsh-theme
+: 1718890095:0;source ~/.zshrc
+: 1718890128:0;nano daivasmara.zsh-theme
+: 1718890148:0;source ~/.zshrc
+: 1718890243:0;spectrum_ls
+: 1718890304:0;nano daivasmara.zsh-theme
+: 1718890329:0;source ~/.zshrc
+: 1718890409:0;nano daivasmara.zsh-theme
+: 1718890471:0;source ~/.zshrc
+: 1718890525:0;nano daivasmara.zsh-theme
+: 1718890556:0;source ~/.zshrc
+: 1718890598:0;nano daivasmara.zsh-theme
+: 1718890803:0;source ~/.zshrc
+: 1718890852:0;nano daivasmara.zsh-theme
+: 1718890924:0;source ~/.zshrc
+: 1718890996:0;nano daivasmara.zsh-theme
+: 1718891060:0;source ~/.zshrc
+: 1718891166:0;nano daivasmara.zsh-theme
+: 1718891252:0;source ~/.zshrc
+: 1718891364:0;nano daivasmara.zsh-theme
+: 1718891549:0;source ~/.zshrc
+: 1718891703:0;clear
+: 1718891774:0;nano daivasmara.zsh-theme
+: 1718892172:0;source ~/.zshrc
+: 1718892264:0;spectrum_ls
+: 1718892361:0;cd ~
+: 1718892561:0;sudo apt update
+: 1718893411:0;sudo \
+1\
+\
+I have a file custom-keybindings.dconf that has been generated (particularly in Ubuntu 16.04) by dumping the keybindings using the command\
+\
+dconf dump /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/ > ./config/custom-keybindings.dconf\
+\
+I tried to load into the custom keybindings on Ubuntu 18.04 by running\
+\
+dconf load /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/ < ./custom-keybindings.dconf\
+\
+The problem is that the shortcuts are not actually loaded: after running the command above, the shortcuts do not work, and no shortcut is shown under "Custom Shortcuts" in Devices > Keyboard, on the graphical interface.\
+\
+Strangly though, after running\
+\
+dconf dump /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/\
+\
+on the fresh Ubuntu 18.04 installation, I can see the same output of the file that was loaded. How to solve this issue?\
+\
+    18.04keyboardshortcut-keys\
+\
+Share\
+Follow\
+asked Feb 11, 2020 at 1:58\
+Arthur Colombini Gusmão's user avatar\
+Arthur Colombini Gusmão\
+43544 silver badges1010 bronze badges\
+Add a comment\
+2 Answers\
+Sorted by:\
+1\
+\
+I was able to solve the issue by adding the same number of custom shortcuts I had before as "dumb" shortcuts in the graphical interface, e.g.,\
+\
+enter image description here\
+\
+and then reloading the file, i.e., running\
+\
+
+: 1718893428:0;dconf load /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/ < ./custom-keybindings.dconf
+: 1718893452:0;dconf dump /org/gnome/settings-daemon/plugins/media-keys/~
+: 1718893461:0;dconf dump /org/gnome/settings-daemon/plugins/media-keys/
+: 1718893732:0;Tilix
+: 1718893752:0;exit
+: 1718893759:0;tilix
+: 1718893817:0;cd ~
+: 1718893818:0;ls
+: 1718893825:0;lsa
+: 1718893834:0;nano bootup.sh
+: 1718893881:0;sudo nano bootup.sh
+: 1718893906:0;lsa
+: 1718893918:0;nano .shell_startup
+: 1718894220:0;sudo nano .shell_startup
+: 1718897613:0;echo "This is a line of text" | cut -c 1-10
+: 1718897738:0;cut -d ':' /etc/passwd
+: 1718897759:0;cut -d ':' f1 /etc/passwd
+: 1718897767:0;cut -d ':' f2 /etc/passwd
+: 1718897807:0;cat /etc/passwd
+: 1718897833:0;cut -d ':' f2 /etc/passwd
+: 1718897844:0;cut --help
+: 1718897879:0;cut -d ':' f2 /etc/passwd
+: 1718897885:0;tldr cut
+: 1718897913:0;cut --delimeter ':' /etc/passwd
+: 1718897930:0;cut --delimeter ':' f2 /etc/passwd
+: 1718897943:0;cut -d ':' f2 /etc/passwd
+: 1718897947:0;cut help
+: 1718897957:0;cut --help
+: 1718897996:0;cut -d, ':' f2 /etc/passwd
+: 1718898052:0;cut -d ':' -f1 /etc/passwd
+: 1718898062:0;cut -d ':' -f2 /etc/passwd
+: 1718899397:0;echo "This is a line of text" | tr 'a' 'A'
+: 1718899436:0;echo "This is a line of text" | tr ' ' '_'
+: 1718899758:0;echo "This is a line of text" | tr -cd 'iesx'
+: 1718914138:0;rm -r ZorinOS
+: 1718914703:0;history
+: 1718914877:0;spectrum_ls
+: 1718914898:0;cd ~
+: 1718914907:0;nano .zshrc
+: 1718915078:0;cd ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes
+: 1718915125:0;ls
+: 1718915129:0;cd daivasmara
+: 1718915130:0;ls
+: 1718915135:0;nano daivasmara.zsh-theme
+: 1718915187:0;source ~/.zshrc
+: 1718915231:0;nano daivasmara.zsh-theme
+: 1718915334:0;source ~/.zshrc
+: 1718915356:0;nano daivasmara.zsh-theme
+: 1718915418:0;source ~/.zshrc
+: 1718915530:0;nano daivasmara.zsh-theme
+: 1718915556:0;source ~/.zshrc
+: 1718915571:0;spectrum_ls
+: 1718915614:0;nano daivasmara.zsh-theme
+: 1718915643:0;source ~/.zshrc
+: 1718915694:0;clear
+: 1718915769:0;cd
+: 1718915770:0;ls
+: 1718915780:0;cat /etc/passwd
+: 1718918167:0;cd /etc/apt/preferences.d/
+: 1718918170:0;ls
+: 1718918342:0;btop
+: 1719938790:0;ls
+: 1719938797:0;cd Desktop
+: 1719938836:0;nano zshlogo
+: 1719938953:0;df
+: 1720023877:0;ls
+: 1720023949:0;lsa
+: 1720024916:0;cd Desktop
+: 1720024969:0;mkdir dotfiles
+: 1720024979:0;pwd
+: 1720024990:0;cd ~
+: 1720025017:0;cp .zshrc /home/alpha/Desktop
+: 1720025042:0;cd Desktop
+: 1720025057:0;mv .zshrc dotfiles
+: 1720025095:0;lsa
+: 1720025121:0;fzf
+: 1720025134:0;cd ?
+: 1720025138:0;cd 
+: 1720025145:0;cd /
+: 1720025150:0;fzf
+: 1720025219:0;cd ~
+: 1720025220:0;lsa
+: 1720025264:0;watch lsa
+: 1720025379:0;cp .bootup.sh /home/alpha/Desktop/dotfiles
+: 1720025414:0;cp .shell_startup /home/alpha/Desktop/dotfiles
+: 1720025455:0;cd ..
+: 1720025458:0;ls
+: 1720025468:0;cd alpha
+: 1720025469:0;ls
+: 1720025481:0;cd ..
+: 1720025483:0;ls
+: 1720025486:0;cd ..
+: 1720025487:0;ls
+: 1720025509:0;cd bin
+: 1720025510:0;ls
+: 1720025512:0;cd ..
+: 1720025513:0;ls
+: 1720025527:0;cd etc
+: 1720025527:0;ls
+: 1720025532:0;cd apt
+: 1720025534:0;ls
+: 1720025542:0;cd preferences.d
+: 1720025543:0;ls
+: 1720025554:0;cd ..
+: 1720025559:0;ls
+: 1720025568:0;cd ..
+: 1720025570:0;ls
+: 1720025575:0;cd opt
+: 1720025576:0;ls
+: 1720025598:0;cd usr/local/sbin
+: 1720025613:0;cd usr/local
+: 1720025619:0;cd usr
+: 1720025631:0;cd ..
+: 1720025635:0;cd /usr
+: 1720025644:0;cd /usr/local/sbin
+: 1720025646:0;ls
+: 1720025654:0;cat manhunt.sh
+: 1720025718:0;cp manhunt.sh /home/alpha/Desktop
+: 1720025723:0;ls
+: 1720089497:0;cd Documents
+: 1720089498:0;ls
+: 1720089504:0;lsa
+: 1720089506:0;cd . .
+: 1720089507:0;cd ..
+: 1720089524:0;cd Public
+: 1720089525:0;ls
+: 1720089542:0;cd ..
+: 1720089543:0;ls
+: 1720089549:0;cd Desktop
+: 1720089550:0;ls
+: 1720089572:0;mv manhunt.sh dotfiles
+: 1720089583:0;mv zshlogo dotfiles
+: 1720089713:0;cd /etc/fail2ban
+: 1720089715:0;ls
+: 1720089737:0;cd fail2ban.d
+: 1720089752:0;lsa
+: 1720089754:0;cd ..
+: 1720089791:0;pwd
+: 1720089844:0;cd ~
+: 1720089846:0;ls
+: 1720089851:0;cd Desktop
+: 1720089851:0;ls
+: 1720089855:0;pwd
+: 1720089864:0;cd /etc/fail2ban
+: 1720089872:0;ls
+: 1720089934:0;cp fail2ban.conf fail2ban.local jail.conf jail.local /home/alpha/Desktop/dotfiles
+: 1720089976:0;cd jail.d
+: 1720089977:0;ls
+: 1720090066:0;lsa
+: 1720194589:0;ls
+: 1720194954:0;ls -latr
+: 1720195014:0;lsa
+: 1720195102:0;cd Desktop
+: 1720195103:0;ls
+: 1720195106:0;cd dotfiles
+: 1720195107:0;ls
+: 1720195109:0;lsa
+: 1720195158:0;pwd
+: 1720195232:0;cp .bashrc .bash_history /home/alpha/Desktop/dotfiles
+: 1720195240:0;lsa
+: 1720195296:0;cd .oh-my-zsh
+: 1720195297:0;ls
+: 1720195392:0;cd themes
+: 1720195396:0;ls
+: 1720195405:0;cd ..
+: 1720195408:0;cd custom
+: 1720195409:0;ls
+: 1720195414:0;cd themes
+: 1720195415:0;ls
+: 1720195421:0;cd ..
+: 1720195427:0;cat example.zsh
+: 1720195483:0;cd ..
+: 1720195512:0;cp .oh-my-zsh /home/alpha/Desktop/dotfiles
+: 1720195525:0;cp -r .oh-my-zsh /home/alpha/Desktop/dotfiles
+: 1720195604:0;watch -n1 ls
+: 1720195625:0;watch -n1 lsa
+: 1720195639:0;watch -n1 ls -lah
+: 1720195704:0;watch -d
+: 1720195711:0;pwd
+: 1720195727:0;watch -d /home/alpha/Desktop/dotfiles\
+
+: 1720195741:0;sudo watch -d /home/alpha/Desktop/dotfiles\
+
+: 1720195776:0;watch -n1 ls -lah
+: 1720195962:0;lsa
+: 1720196034:0;cd .local
+: 1720196035:0;ls
+: 1720196041:0;cd bin
+: 1720196043:0;ls
+: 1720196046:0;cd .. 
+: 1720196047:0;ls
+: 1720196048:0;cd ..
+: 1720196050:0;ls
+: 1720196060:0;cd config
+: 1720196061:0;ls
+: 1720196067:0;cd .config
+: 1720196068:0;ls
+: 1720196142:0;cp tilix /home/alpha/Desktop/dotfiles\
+
+: 1720196151:0;cp -r tilix /home/alpha/Desktop/dotfiles\
+
+: 1720196198:0;sudo apt remove kitty
+: 1720281163:0;cd Desktop
+: 1720281165:0;ls
+: 1720281199:0;mv dotfiles ~
+: 1720281204:0;cd ~
+: 1720281206:0;lsa
+: 1720281251:0;mv dotfiles .dotfiles
+: 1720281253:0;lsa
+: 1720281266:0;cd .dotfiles
+: 1720281270:0;lsa
+: 1720281662:0;mv Downloads/init_dotfiles.sh .
+: 1720281676:0;mv /home/downloads/init_dotfiles.sh .
+: 1720281699:0;pwd
+: 1720281717:0;mv /home/alpha/Downloads/init_dotfiles.sh .
+: 1720281719:0;ls
+: 1720281749:0;chmod +x init_dotfiles.sh
+: 1720281750:0;ls
+: 1720281758:0;./init_dotfiles.sh
+: 1720281887:0;ls
+: 1720281887:0;s
+: 1720281903:0;cd ..
+: 1720281905:0;ls
+: 1720281908:0;lsa
+: 1720281928:0;cat .profile
+: 1720281987:0;cat .bash_logout
+: 1720282134:0;lsa
+: 1720282154:0;mv .dotfiles .gotfiles
+: 1720282156:0;lsa
+: 1720282272:0;cd .dotfiles
+: 1720282274:0;lsa
+: 1720282295:0;cat zshrc
+: 1720282317:0;qq
+: 1720282383:0;cd dotbot
+: 1720282384:0;ls
+: 1720282393:0;cd dotbot
+: 1720282394:0;ls
+: 1720282397:0;cd ..
+: 1720282400:0;cd bin
+: 1720282400:0;ls
+: 1720282404:0;cat dotbot
+: 1720282450:0;ls
+: 1720282452:0;cd ..
+: 1720282454:0;l
+: 1720282461:0;cd ..
+: 1720282462:0;ls
+: 1720282465:0;cd ..
+: 1720282470:0;ls
+: 1720282479:0;cd .dotfiles
+: 1720282480:0;ls
+: 1720282482:0;lsa
+: 1720282502:0;cat install
+: 1720282527:0;cat install.conf.yaml
+: 1720282622:0;cd ls ~/.gotfiles
+: 1720282629:0;ls ~/.gotfiles
+: 1720282640:0;lsa ~/.gotfiles
+: 1720282694:0;rm bashrc
+: 1720282707:0;rm zshrc
+: 1720283067:0;cd ~/.dotfiles
+: 1720283072:0;rename -n 's/.{5}(.*)/$1/' *
+: 1720283124:0;sudo apt install rename
+: 1720283148:0;rename -n 's/.{5}(.*)/$1/' *
+: 1720283174:0;rename -n 's/.{1}(.*)/$1/' *
+: 1720283195:0;cd ~/.gotfiles
+: 1720283199:0;rename -n 's/.{1}(.*)/$1/' *
+: 1720283292:0;lsa
+: 1720283361:0;find /path/to/test -depth -name ".*" -execdir rename -n 's|/\.|/|' {} +
+: 1720283381:0;find ~/.gotfiles -depth -name ".*" -execdir rename -n 's|/\.|/|' {} +
+: 1720283474:0;mv * ~/.dotfiles
+: 1720283477:0;ls
+: 1720283478:0;lsa
+: 1720283534:0;find ~/.gotfiles -depth -name ".*" -execdir rename -n 's|/\.|/|' {} +
+: 1720283656:0;rename -n 's/.{1}(.*)/$1/' *
+: 1720283705:0;find ~/.gotfiles -depth -name ".*" -execdir rename -n 's/.{1}(.*)/$1/' *rename -n 's|/\.|/|' {} +
+: 1720283781:0;find ~/.gotfiles -depth -name ".*" -execdir rename -n 's/.{1}(.*)/$1/' *
+: 1720283833:0;find ~/.gotfiles -depth -name ".*" -execdir rename -n 's/.{1}(.*)/$1/'
+: 1720283845:0;ls
+: 1720283847:0;lsa
+: 1720283900:0;mv .oh-my-zsh .bashrc .bash_history .bootup.sh .shell_startup .zshrc ~/.dotfiles
+: 1720283901:0;lsa
+: 1720283910:0;cd ~/.dotfiles
+: 1720283911:0;ls
+: 1720283928:0;lsa
+: 1720342956:0;cd .dotfiles
+: 1720342957:0;lsa
+: 1720343042:0;cd .dotfiles
+: 1720343046:0;lsa
+: 1720343110:0;nano install.conf.yaml
+: 1720343689:0;cat install.conf.yaml
+: 1720343979:0;nano install.conf.yaml
+: 1720344011:0;lsa
+: 1720344024:0;cd ..
+: 1720344026:0;lsa
+: 1720344088:0;cat .bootup.sh
+: 1720344293:0;cd .dotfiles
+: 1720344312:0;mv .bash_history bash_history
+: 1720344327:0;lsa
+: 1720344351:0;cp ~/.zsh_history .

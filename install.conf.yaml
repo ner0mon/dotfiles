@@ -2,6 +2,13 @@
 
 - link:
     ~/.bashrc: bashrc
+    ~/.bash_history: bash_history
     ~/.zshrc: zshrc
+    ~/.zsh_history: zsh_history
+   # ~/.shell_startup: shell_startup
 
-
+# fail2ban.local
+# fail2ban.conf
+#jail.local
+#jail.conf
+#
