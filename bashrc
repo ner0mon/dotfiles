@@ -121,4 +121,4 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 # Created by `pipx` on 2024-06-10 15:57:10
 export PATH="$PATH:/home/alpha/.local/bin"
 
-. ~/.shell_startup
+. ~/.ubuntu_startup
